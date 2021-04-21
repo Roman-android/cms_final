@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="production" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="develop">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\" local="$PROJECT_DIR$/../Сайт ДВЕРИ/develop" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lessons">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\" local="$PROJECT_DIR$/../lessons_mvc" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="production">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\" local="$PROJECT_DIR$" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="test_cms">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\" local="$PROJECT_DIR$/../Сайт ДВЕРИ/test.homedver.ru" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
